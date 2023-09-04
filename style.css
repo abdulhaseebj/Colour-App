@@ -1,0 +1,13 @@
+div{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    padding: 30px;
+}
+/* .head{
+    text-align: center;
+} */
+*{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
